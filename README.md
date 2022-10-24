@@ -1,3 +1,3 @@
 # Demo
 
-He is a brilliant student
+He is a brilliant student!
